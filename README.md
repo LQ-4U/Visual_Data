@@ -1,7 +1,7 @@
 # Visual_Data
 Data Viz
 
-Test Viz: https://lq-4u.github.io/Visual_Data/
+https://lq-4u.github.io/Visual_Data/
 
 ...
 
